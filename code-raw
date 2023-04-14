@@ -14,7 +14,6 @@ public class elektromer {
 
     private int x = 2;
     private int y = 100;
-    private int poradieOdpoctu = 1;
     private boolean isValid = true;
     private boolean validationOn = true;
     private LocalDate dnesnyDatum;
