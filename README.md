@@ -17,9 +17,9 @@ Pre validáciu sa dajú zadefinovať druhy odpočtu, ktoré majú výnimku (defi
 Prvotné nastavenie pre produkciu:
 
 <ul>
-<li>• x=2</li>
-<li>• y=100</li>
-<li>• Druhy odpočtu, ktoré majú výnimku: 02; 03</li>
+<li>x=2</li>
+<li>y=100</li>
+<li>Druhy odpočtu, ktoré majú výnimku: 02; 03</li>
 </ul>
 <br></br>
 
