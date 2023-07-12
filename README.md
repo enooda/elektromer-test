@@ -23,7 +23,7 @@ Prvotné nastavenie pre produkciu:
 </ul>
 Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
 <br></br>
-<a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie</a>
+<a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing" target="_blank">Odkaz na kompletné zadanie</a>
 <br></br>
 Logika:
 <br></br>
