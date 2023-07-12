@@ -21,7 +21,6 @@ Prvotné nastavenie pre produkciu:
 <li>y=100</li>
 <li>Druhy odpočtu, ktoré majú výnimku: 02; 03</li>
 </ul>
-<br></br>
 Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
 <br></br>
 <a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie</a>
