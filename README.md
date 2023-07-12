@@ -25,7 +25,7 @@ Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
 <br></br>
 <a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie</a>
 <br></br>
-**Logika**:
+**Logika:
 <br></br>
 Kód je napísaný v Jave pre Selenium Webdriver. Test sa vykonáva pomocou metódy  validaciaElektromera()", ktorá sa spúšťa pred každým behom testu v rámci triedy "elektromerTest". V metóde "setUp()" sú inicializované premenné a vytvorené zoznamy. V metóde "validaciaElektromera()" generujú náhodné údaje pre jednotlivé parametre a vyhodnocuje sa ich vierohodnosť.
 <br></br>
