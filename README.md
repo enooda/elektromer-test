@@ -16,9 +16,11 @@ Výnimku majú všetky odpočty s dôvodom odpočtu 06.
 Pre validáciu sa dajú zadefinovať druhy odpočtu, ktoré majú výnimku (definujú sa do parametrov).
 Prvotné nastavenie pre produkciu:
 <br></br>
-• x=2
-• y=100
-• Druhy odpočtu, ktoré majú výnimku: 02; 03
+<li>
+<ul>• x=2</ul>
+<ul>• y=100</ul>
+<ul>• Druhy odpočtu, ktoré majú výnimku: 02; 03</ul>
+</li>
 <br></br>
 Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
 <br></br>
