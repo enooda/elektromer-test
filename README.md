@@ -1,5 +1,6 @@
 # Vypracovanie zadania na test elektromeru pre Sféra, a.s.
 **Zadanie**
+<br></br>
 **<i>Otestujte správne fungovanie validácie "Viacnásobná nulová spotreba"**
 <br></br>
 Systém, ktorý testujete, sa používa na zber a validáciu odpočtov elektromerov.
