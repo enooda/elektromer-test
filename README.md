@@ -1,4 +1,22 @@
-# elektromer-test pre Sféra, a.s.
+# Vypracovanie zadania na test elektromeru pre Sféra, a.s.
+**Zadanie**
+**<i>Otestujte správne fungovanie validácie "Viacnásobná nulová spotreba"**
+Systém, ktorý testujete, sa používa na zber a validáciu odpočtov elektromerov.
+Každý odpočet má niekoľko pridružených údajov.
+Validácia má identifikovať odpočet s nulovou spotrebou, ktorý prekračuje nižšie definované
+podmienky. Takýto odpočet má systém označiť ako nevierohodný.
+Nevierohodné bude, ak nulová spotreba nastala „x“ krát za sebou („x“ je nastaviteľný parameter),
+medzi odpočtami vzdialenými minimálne „y“ dni za sebou („y“ je parameter).
+Výnimku majú všetky odpočty s dôvodom odpočtu 06.
+Pre validáciu sa dajú zadefinovať druhy odpočtu, ktoré majú výnimku (definujú sa do parametrov).
+Prvotné nastavenie pre produkciu:
+• x=2
+• y=100
+• Druhy odpočtu, ktoré majú výnimku: 02; 03
+Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
+
+<a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie.</a>
+
 Kód je napísaný v Jave pre Selenium Webdriver. Test sa vykonáva pomocou metódy  validaciaElektromera()", ktorá sa spúšťa pred každým behom testu v rámci triedy "elektromerTest". V metóde "setUp()" sú inicializované premenné a vytvorené zoznamy. V metóde "validaciaElektromera()" generujú náhodné údaje pre jednotlivé parametre a vyhodnocuje sa ich vierohodnosť.
 <br></br>
 **Logika:**
