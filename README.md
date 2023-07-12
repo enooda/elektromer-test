@@ -23,11 +23,11 @@ Prvotné nastavenie pre produkciu:
 </ul>
 Validáciu bude možné aktivovať a deaktivovať v systéme.</i>
 <br></br>
-<a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie</a>
-
-Kód je napísaný v Jave pre Selenium Webdriver. Test sa vykonáva pomocou metódy  validaciaElektromera()", ktorá sa spúšťa pred každým behom testu v rámci triedy "elektromerTest". V metóde "setUp()" sú inicializované premenné a vytvorené zoznamy. V metóde "validaciaElektromera()" generujú náhodné údaje pre jednotlivé parametre a vyhodnocuje sa ich vierohodnosť.
+**<a href="https://drive.google.com/file/d/1HYzlEmaXPjUUACSwC4n_G-lUCJPsDjzW/view?usp=sharing">Odkaz na kompletné zadanie</a>**
 <br></br>
 **Logika:**
+<br></br>
+Kód je napísaný v Jave pre Selenium Webdriver. Test sa vykonáva pomocou metódy  validaciaElektromera()", ktorá sa spúšťa pred každým behom testu v rámci triedy "elektromerTest". V metóde "setUp()" sú inicializované premenné a vytvorené zoznamy. V metóde "validaciaElektromera()" generujú náhodné údaje pre jednotlivé parametre a vyhodnocuje sa ich vierohodnosť.
 <br></br>
 Ak je spotreba rovná 0, zaznamená sa. Ak sa tak stane viac ako "x" krát po sebe a ak uplynulo aspoň "y" dní od posledného merania, a ak nie je dôvod odpočtu alebo druh odpočtu rovný určitým hodnotám, údaje nie sú považované za vierohodné a premenná "isValid" sa nastaví na false. V opačnom prípade sa považujú za vierohodné a premenná "isValid" sa nastaví na true.
 <br></br>
