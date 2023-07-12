@@ -1,4 +1,4 @@
-# elektromer-test
+# elektromer-test pre Sféra, a.s.
 Kód je napísaný v Jave pre Selenium Webdriver. Test sa vykonáva pomocou metódy  validaciaElektromera()", ktorá sa spúšťa pred každým behom testu v rámci triedy "elektromerTest". V metóde "setUp()" sú inicializované premenné a vytvorené zoznamy. V metóde "validaciaElektromera()" generujú náhodné údaje pre jednotlivé parametre a vyhodnocuje sa ich vierohodnosť.
 <br></br>
 **Logika:**
